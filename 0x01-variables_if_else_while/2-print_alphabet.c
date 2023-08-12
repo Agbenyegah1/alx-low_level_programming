@@ -1,12 +1,13 @@
 #include <stdio.h>
 int main(void)
-{
+{ 
 	char letter = 'a';
+
 	while (letter <= 'z')
 	{
-		putchar (letter); 
+		putchar(letter);
 		letter++;
 	}
-        putchar ('\n');	
+	putchar ('\n');
 	return (0);
 }
