@@ -1,4 +1,8 @@
-#include <stdio.h>
+#include <stdio.h>						/**
+								  * main - Entry point of the program 
+								  *
+								  * Return : Always return to zero
+								  */
 int main(void)
 {
 	char letter = 'a';
