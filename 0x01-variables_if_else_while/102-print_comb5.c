@@ -3,10 +3,6 @@
  * main - Entry point of the program
  *
  * Description: This program generates and prints all possible combinations
- * The combinations are generated within the range of 00 to 99 for both numbers.
- * Each number is printed with two digits (e.g., 01, 23, 99).
- * Combinations are separated by a comma and a space.
- *
  * Return: Always 0 (Success)
  */
 int main(void)
