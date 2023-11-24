@@ -1,14 +1,6 @@
 #include <stdlib.h>
+#include "main.h"
 
-/**
- * string_nconcat - Concatenates two strings up to n bytes.
- * @s1: First string.
- * @s2: Second string.
- * @n: Maximum number of bytes from s2 to concatenate.
- *
- * Return: A pointer to the concatenated string.
- *         If the function fails, it should return NULL.
- */
 char *string_nconcat(char *s1, char *s2, unsigned int n)
 {
 	char *concatenated;
