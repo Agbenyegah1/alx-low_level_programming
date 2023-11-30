@@ -17,4 +17,6 @@ int op_div(int a, int b);
 
 int op_mod(int a, int b);
 
+int _putchar(char c);
+
 #endif /* FUNCTION_POINTERS_H */
